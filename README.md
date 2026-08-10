@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/TurOtpIJszEAAAAC/mecha-man-mecha-man-dispatch.gif" width="760" alt="Anime mecha in the rain" />
+  <img src="https://webstatic.hoyoverse.com/upload/op-public/2023/05/05/d5d102fbdd7eca30d5318c060481513d_8245873998380025885.gif" width="760" alt="High-resolution anime mecha scene" />
 </p>
 
 <h3 align="center">Building local-first software, embedded sensing, and AI tools with an eye toward robotics, mechatronics, and reliable production engineering.</h3>

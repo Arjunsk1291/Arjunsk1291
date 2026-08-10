@@ -1,10 +1,25 @@
-# Arjun Kumar
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Arjun+Kumar;Embedded+sensing+%2B+local+AI+%2B+full-stack+systems;Robotics%2C+mechatronics+and+autonomous-systems+focused" alt="Typing SVG" />
+</p>
 
-Building local-first software, embedded sensing, and AI tools with an eye toward robotics, mechatronics, and reliable production engineering.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Germany%20%7C%20DACH-1f6feb?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20C%2B%2B%20%7C%20TypeScript-0a0a0a?style=for-the-badge" alt="Stack" />
+  <img src="https://img.shields.io/badge/Mode-Local--First%20Engineering-2ea043?style=for-the-badge" alt="Mode" />
+</p>
+
+<h3 align="center">Building local-first software, embedded sensing, and AI tools with an eye toward robotics, mechatronics, and reliable production engineering.</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arjun-s-kumar-721758276/">LinkedIn</a> ·
+  <a href="https://github.com/Arjunsk1291">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjunsk1291&theme=github_dark" alt="Profile details" />
+</p>
 
 > I’m especially interested in roles across Germany and the DACH region in robotics, autonomous systems, industrial automation, defence, aerospace, and applied R&D.
-
-[LinkedIn](https://www.linkedin.com/in/arjun-s-kumar-721758276/) · [GitHub](https://github.com/Arjunsk1291)
 
 ## What I bring
 
@@ -41,6 +56,17 @@ RAG · OCR · OpenCV · LlamaIndex · Pinecone · Gemini · ChromaDB · Tesserac
 **Embedded / sensing**
 
 ESP32 · WiFi CSI · sensor integration · signal processing · local dashboards · simulator-driven development
+
+## Live widgets
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Arjunsk1291&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunsk1291&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Arjunsk1291&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
 
 ## What I am aiming for
 

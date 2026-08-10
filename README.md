@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/wuivyW5.gif" width="720" alt="Circuit animation" />
+  <img src="https://media1.tenor.com/m/TurOtpIJszEAAAAC/mecha-man-mecha-man-dispatch.gif" width="760" alt="Anime mecha in the rain" />
 </p>
 
 <h3 align="center">Building local-first software, embedded sensing, and AI tools with an eye toward robotics, mechatronics, and reliable production engineering.</h3>
@@ -25,7 +25,7 @@
 
 I like systems that move from signal to decision to action without becoming opaque along the way.
 
-My public work in 2026 has followed a pretty clear arc:
+My public work in 2026 has followed a clear arc:
 
 - `January to February`: command-center and productivity tooling.
 - `May`: local RAG and document-understanding systems.

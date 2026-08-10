@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Arjun+Kumar;Embedded+sensing+%2B+local+AI+%2B+full-stack+systems;Robotics%2C+mechatronics+and+autonomous-systems+focused" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Arjun+S+Kumar;Embedded+sensing+%2B+local+AI+%2B+full-stack+systems;Robotics%2C+mechatronics+and+autonomous-systems+focused" alt="Typing SVG" />
 </p>
 
 <p align="center">

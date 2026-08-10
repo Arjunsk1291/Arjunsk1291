@@ -1,11 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Arjun+S+Kumar;Embedded+sensing+%2B+local+AI+%2B+full-stack+systems;Robotics%2C+mechatronics+and+autonomous-systems+focused" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=24&pause=1000&center=true&vCenter=true&width=760&lines=Arjun+S+Kumar;Embedded+sensing+%2B+local+AI+%2B+full-stack+systems;Robotics%2C+mechatronics+and+autonomous-systems+focused" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Germany%20%7C%20DACH-1f6feb?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20C%2B%2B%20%7C%20TypeScript-0a0a0a?style=for-the-badge" alt="Stack" />
-  <img src="https://img.shields.io/badge/Mode-Local--First%20Engineering-2ea043?style=for-the-badge" alt="Mode" />
+  <img src="https://img.shields.io/badge/Focus-Germany%20%7C%20DACH-0b1020?style=for-the-badge&logo=github" alt="Focus" />
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20C%2B%2B%20%7C%20TypeScript-0b1020?style=for-the-badge&logo=python" alt="Stack" />
+  <img src="https://img.shields.io/badge/Mode-Local--First%20Engineering-0b1020?style=for-the-badge&logo=rocket" alt="Mode" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/wuivyW5.gif" width="360" alt="Circuit animation" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyM2RjYTRkdm5qNnRxcjh0YnFnMTJ2NXJuaWk1bm1pYjhlZTl5a25qdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/U5OgQSxhzjR1t4McGc/giphy.gif" width="360" alt="Sci-fi HUD animation" />
 </p>
 
 <h3 align="center">Building local-first software, embedded sensing, and AI tools with an eye toward robotics, mechatronics, and reliable production engineering.</h3>
@@ -21,6 +26,10 @@
 
 > I’m especially interested in roles across Germany and the DACH region in robotics, autonomous systems, industrial automation, defence, aerospace, and applied R&D.
 
+## Mission Profile
+
+I build systems that sit between software, hardware, and operations: the kind of work where clean interfaces, measured behavior, and disciplined debugging matter.
+
 ## What I bring
 
 - Python, TypeScript, JavaScript, and C++ where the system needs it.
@@ -29,15 +38,15 @@
 - Full-stack dashboards and internal tools with an emphasis on reliability, observability, and clean workflows.
 - A practical engineering style: ship something measurable, document it well, and keep the behavior understandable.
 
-## Selected work
+## Systems in the portfolio
 
-| Project | What it shows |
-| --- | --- |
-| [WiSentry](https://github.com/Arjunsk1291/wisentry) | WiFi CSI human presence and pose detection with ESP32, Python, C++, a live dashboard, and a simulator. Strong evidence of embedded sensing, pipeline design, and local-first engineering. |
-| [DocuMind](https://github.com/Arjunsk1291/documind-rag-app) | CAD-aware RAG assistant with FastAPI, React, OpenCV, OCR, GraphRAG, and visual source attribution. Shows applied AI plus document and image processing. |
-| [OpportunityDash](https://github.com/Arjunsk1291/opportunityDash) | Full-stack tender management platform with Microsoft Graph sync, approvals, analytics, export, and operational monitoring. Demonstrates production-minded system design. |
-| [HireFlow](https://github.com/Arjunsk1291/hireflow) | Hiring management system built with Next.js, Prisma, NextAuth, tests, and background jobs. Shows modern web architecture and workflow automation. |
-| [rag-qwen-local](https://github.com/Arjunsk1291/rag-qwen-local) | Fully local document chatbot with FastAPI and ChromaDB. Good signal for privacy-first AI tooling and practical deployment thinking. |
+| Project | Evidence | Why it matters for robotics / mechatronics |
+| --- | --- | --- |
+| [WiSentry](https://github.com/Arjunsk1291/wisentry) | ESP32 + Python + C++ + live dashboard + simulator | Strongest signal for embedded sensing, pipeline design, and system integration. |
+| [DocuMind](https://github.com/Arjunsk1291/documind-rag-app) | FastAPI + React + OpenCV + OCR + GraphRAG | Applied AI plus document and image processing for technical workflows. |
+| [OpportunityDash](https://github.com/Arjunsk1291/opportunityDash) | Microsoft Graph sync + approvals + analytics + reporting | Production-oriented platform work with operational discipline. |
+| [HireFlow](https://github.com/Arjunsk1291/hireflow) | Next.js + Prisma + NextAuth + jobs + tests | Modern full-stack architecture and workflow automation. |
+| [rag-qwen-local](https://github.com/Arjunsk1291/rag-qwen-local) | Local RAG + FastAPI + ChromaDB | Privacy-first engineering and practical local deployment. |
 
 ## Core stack
 
@@ -57,7 +66,7 @@ RAG · OCR · OpenCV · LlamaIndex · Pinecone · Gemini · ChromaDB · Tesserac
 
 ESP32 · WiFi CSI · sensor integration · signal processing · local dashboards · simulator-driven development
 
-## Live widgets
+## Live telemetry
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Arjunsk1291&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" alt="GitHub stats" />

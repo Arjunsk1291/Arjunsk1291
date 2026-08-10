@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://webstatic.hoyoverse.com/upload/op-public/2023/05/05/d5d102fbdd7eca30d5318c060481513d_8245873998380025885.gif" width="760" alt="High-resolution anime mecha scene" />
+  <img src="https://blueshift.com.br/assets/gif-home-Dsu_sHD6.gif" width="760" alt="Animated circuit background" />
 </p>
 
 <h3 align="center">Building local-first software, embedded sensing, and AI tools with an eye toward robotics, mechatronics, and reliable production engineering.</h3>
@@ -19,9 +19,11 @@
   <a href="https://github.com/Arjunsk1291">GitHub</a>
 </p>
 
-> I’m especially interested in roles across Germany and the DACH region in robotics, autonomous systems, industrial automation, defence, aerospace, and applied R&D.
-
 ## Story
+
+<p align="left">
+  <img src="https://blueshift.com.br/assets/gif-home-Dsu_sHD6.gif" width="420" alt="Animated circuit accent" />
+</p>
 
 I like systems that move from signal to decision to action without becoming opaque along the way.
 
@@ -34,6 +36,10 @@ My public work in 2026 has followed a clear arc:
 
 ## 2026 telemetry
 
+<p align="left">
+  <img src="https://blueshift.com.br/assets/gif-home-Dsu_sHD6.gif" width="420" alt="Telemetry accent" />
+</p>
+
 As of `August 10, 2026`:
 
 - `12` public repositories in the profile.
@@ -43,6 +49,10 @@ As of `August 10, 2026`:
 - The clearest applied-AI signal is `DocuMind`, which combines FastAPI, React, OCR, OpenCV, and GraphRAG.
 
 ## Portfolio signal
+
+<p align="left">
+  <img src="https://blueshift.com.br/assets/gif-home-Dsu_sHD6.gif" width="420" alt="Portfolio accent" />
+</p>
 
 The portfolio is not a robotics lab in the strict academic sense. It is stronger than that in one useful way: it shows the pieces recruiters actually screen for in robotics-adjacent engineering roles.
 
@@ -54,6 +64,10 @@ The portfolio is not a robotics lab in the strict academic sense. It is stronger
 
 ## Selected systems
 
+<p align="left">
+  <img src="https://blueshift.com.br/assets/gif-home-Dsu_sHD6.gif" width="420" alt="Systems accent" />
+</p>
+
 - `WiSentry` - ESP32 + Python + C++ + live dashboard + simulator. This is the clearest embedded-sensing piece in the portfolio.
 - `DocuMind` - FastAPI + React + OpenCV + OCR + GraphRAG. This shows applied AI, document processing, and visual extraction.
 - `OpportunityDash` - Microsoft Graph sync, approvals, analytics, and reporting. This shows operational software with workflow discipline.
@@ -64,6 +78,10 @@ The portfolio is not a robotics lab in the strict academic sense. It is stronger
 Python · C++ · TypeScript · JavaScript · HTML · CSS · FastAPI · Node.js · Express · Next.js · Prisma · MongoDB · SQLite · REST APIs · Docker · RAG · OCR · OpenCV · ChromaDB · ESP32 · WiFi CSI
 
 ## Working style
+
+<p align="left">
+  <img src="https://blueshift.com.br/assets/gif-home-Dsu_sHD6.gif" width="420" alt="Working style accent" />
+</p>
 
 - I like systems that are easy to reason about and easy to verify.
 - I prefer local-first or privacy-conscious designs when that is practical.

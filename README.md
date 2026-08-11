@@ -66,7 +66,7 @@ The work is not a robotics lab in the academic sense. It is useful in a differen
 ## Selected Systems
 
 <p align="left">
-  <img src="https://tenor.com/view/data-flow-sort-compute-glitch-gif-7084761493615860081" width="320" alt="Data flow animation" />
+  <img src="https://media1.tenor.com/m/YlIhCrFW2XEAAAAd/data-flow.gif" width="320" alt="Data flow animation" />
 </p>
 
 | Project | Evidence | Why it matters |
@@ -84,7 +84,7 @@ Python · C++ · TypeScript · JavaScript · HTML · CSS · FastAPI · Node.js �
 ## Working Style
 
 <p align="left">
-  <img src="https://tenor.com/view/encrypted-data-information-alien-code-gif-24787892" width="320" alt="Encrypted data animation" />
+  <img src="https://media1.tenor.com/m/Q53XhZ3CqCcAAAAd/encrypted-data.gif" width="320" alt="Encrypted data animation" />
 </p>
 
 - I like systems that are easy to reason about and easy to verify.

@@ -26,7 +26,7 @@
 ## Signal Chain
 
 <p align="left">
-  <img src="https://designyoutrust.com/wp-content/uploads/2019/05/tumblr_ongbq6aOn81vjxiz1o1_1280.gif" width="240" alt="Pixel street and vending machine" />
+  <img src="https://designyoutrust.com/wp-content/uploads/2019/05/tumblr_p4m2p2IByC1vjxiz1o1_1280.gif" width="240" alt="Pixel café scene" />
 </p>
 
 I work best on systems that go from sensing to decision to action without becoming opaque along the way.
@@ -40,7 +40,7 @@ The public portfolio shows that shape pretty clearly:
 ## 2026 Telemetry
 
 <p align="left">
-  <img src="https://designyoutrust.com/wp-content/uploads/2019/05/tumblr_p4m2p2IByC1vjxiz1o1_1280.gif" width="240" alt="Pixel café scene" />
+  <img src="https://designyoutrust.com/wp-content/uploads/2019/05/tumblr_ongbq6aOn81vjxiz1o1_1280.gif" width="240" alt="Pixel street and vending machine" />
 </p>
 
 As of `August 11, 2026`:
@@ -68,7 +68,7 @@ The work is not a robotics lab in the academic sense. It is useful in a differen
 ## Selected Systems
 
 <p align="left">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9100d753-02ac-4ed8-ac98-5e45d6deecad/dfsf1p8-2038241c-de25-4942-9018-affc600ce3ac.gif/v1/fill/w_768%2Ch_432%2Cq_85%2Cstrp/pixelart_work_gif_by_yaleisyu_dfsf1p8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDMyIiwicGF0aCI6IlwvZlwvOTEwMGQ3NTMtMDJhYy00ZWQ4LWFjOTgtNWU0NWQ2ZGVlY2FkXC9kZnNmMXA4LTIwMzgyNDFjLWRlMjUtNDk0Mi05MDE4LWFmZmM2MDBjZTNhYy5naWYiLCJ3aWR0aCI6Ijw9NzY4In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Jq9xX7gxSiQxLdqz_863r8MWBpeAo5p2On8PPkfGdvg" width="240" alt="Pixel work scene" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/9afe0493484903.5e66500f8dea4.gif" width="240" alt="Pixel night study" />
 </p>
 
 | Project | Evidence | Why it matters |

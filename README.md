@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/robot-arm-animation-gif-download-5033599.gif" width="620" alt="Industrial robotic arm" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/a03b66136590719.61fca586bfb12.gif" width="620" alt="Pixel city at dawn" />
 </p>
 
 <h3 align="center">Building local-first software, embedded sensing, and AI tools with an eye toward robotics, mechatronics, and reliable production engineering.</h3>
@@ -26,7 +26,7 @@
 ## Signal Chain
 
 <p align="left">
-  <img src="https://media1.tenor.com/m/f9XAQEcIJH8AAAAC/radar.gif" width="240" alt="Radar sweep" />
+  <img src="https://designyoutrust.com/wp-content/uploads/2019/05/tumblr_ongbq6aOn81vjxiz1o1_1280.gif" width="240" alt="Pixel street and vending machine" />
 </p>
 
 I work best on systems that go from sensing to decision to action without becoming opaque along the way.
@@ -40,7 +40,7 @@ The public portfolio shows that shape pretty clearly:
 ## 2026 Telemetry
 
 <p align="left">
-  <img src="https://assets-v2.lottiefiles.com/a/a0aadb8a-45d2-11ee-aab2-2f7baac9c918/c5vGAZZ2hw.gif" width="240" alt="Circuit chip animation" />
+  <img src="https://designyoutrust.com/wp-content/uploads/2019/05/tumblr_p4m2p2IByC1vjxiz1o1_1280.gif" width="240" alt="Pixel café scene" />
 </p>
 
 As of `August 11, 2026`:
@@ -54,7 +54,7 @@ As of `August 11, 2026`:
 ## What The Portfolio Says
 
 <p align="left">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNTd5YTZ0cGs1bWl3M2ZoNzZmZDhmenZjcGJsZHpheWVvdDRxZHBuaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YnexM9LwlwGu4Z1QnS/giphy.gif" width="240" alt="Blue grid data network" />
+  <img src="https://designyoutrust.com/wp-content/uploads/2019/05/1.gif" width="240" alt="Pixel room scene" />
 </p>
 
 The work is not a robotics lab in the academic sense. It is useful in a different way: it shows the pieces recruiters actually screen for in robotics-adjacent engineering roles.
@@ -68,7 +68,7 @@ The work is not a robotics lab in the academic sense. It is useful in a differen
 ## Selected Systems
 
 <p align="left">
-  <img src="https://media1.tenor.com/m/YlIhCrFW2XEAAAAd/data-flow.gif" width="240" alt="Data flow animation" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9100d753-02ac-4ed8-ac98-5e45d6deecad/dfsf1p8-2038241c-de25-4942-9018-affc600ce3ac.gif/v1/fill/w_768%2Ch_432%2Cq_85%2Cstrp/pixelart_work_gif_by_yaleisyu_dfsf1p8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDMyIiwicGF0aCI6IlwvZlwvOTEwMGQ3NTMtMDJhYy00ZWQ4LWFjOTgtNWU0NWQ2ZGVlY2FkXC9kZnNmMXA4LTIwMzgyNDFjLWRlMjUtNDk0Mi05MDE4LWFmZmM2MDBjZTNhYy5naWYiLCJ3aWR0aCI6Ijw9NzY4In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Jq9xX7gxSiQxLdqz_863r8MWBpeAo5p2On8PPkfGdvg" width="240" alt="Pixel work scene" />
 </p>
 
 | Project | Evidence | Why it matters |
@@ -86,7 +86,7 @@ Python · C++ · TypeScript · JavaScript · HTML · CSS · FastAPI · Node.js �
 ## Working Style
 
 <p align="left">
-  <img src="https://cdn.dribbble.com/userupload/20071783/file/original-f4c5612aa78c8d2be02da76975764914.gif" width="240" alt="Data encryption key" />
+  <img src="https://assets.st-note.com/production/uploads/images/92228966/picture_pc_6d89f47c07af1d1901d76cd737d655d7.gif" width="240" alt="Pixel anime character" />
 </p>
 
 - I like systems that are easy to reason about and easy to verify.

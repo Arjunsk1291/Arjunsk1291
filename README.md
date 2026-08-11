@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/_OS9hRTr4O0AAAAd/robot-arm-immersive-software-engineering.gif" width="620" alt="Robot arm control scene" />
+  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/robot-arm-animation-gif-download-5033599.gif" width="620" alt="Industrial robotic arm" />
 </p>
 
 <h3 align="center">Building local-first software, embedded sensing, and AI tools with an eye toward robotics, mechatronics, and reliable production engineering.</h3>
@@ -26,7 +26,7 @@
 ## Signal Chain
 
 <p align="left">
-  <img src="https://media1.tenor.com/m/8Juj0k-1L4AAAAAd/radar-love-search.gif" width="240" alt="Radar scanning" />
+  <img src="https://media1.tenor.com/m/f9XAQEcIJH8AAAAC/radar.gif" width="240" alt="Radar sweep" />
 </p>
 
 I work best on systems that go from sensing to decision to action without becoming opaque along the way.
@@ -40,7 +40,7 @@ The public portfolio shows that shape pretty clearly:
 ## 2026 Telemetry
 
 <p align="left">
-  <img src="https://media1.tenor.com/m/UZjlT2w2Ss0AAAAd/circuits-pcb.gif" width="240" alt="Circuit board animation" />
+  <img src="https://assets-v2.lottiefiles.com/a/a0aadb8a-45d2-11ee-aab2-2f7baac9c918/c5vGAZZ2hw.gif" width="240" alt="Circuit chip animation" />
 </p>
 
 As of `August 11, 2026`:
@@ -54,7 +54,7 @@ As of `August 11, 2026`:
 ## What The Portfolio Says
 
 <p align="left">
-  <img src="https://media1.tenor.com/m/W2s9QN53er0AAAAd/download-loading-file.gif" width="240" alt="Loading / transfer animation" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNTd5YTZ0cGs1bWl3M2ZoNzZmZDhmenZjcGJsZHpheWVvdDRxZHBuaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YnexM9LwlwGu4Z1QnS/giphy.gif" width="240" alt="Blue grid data network" />
 </p>
 
 The work is not a robotics lab in the academic sense. It is useful in a different way: it shows the pieces recruiters actually screen for in robotics-adjacent engineering roles.
@@ -86,7 +86,7 @@ Python · C++ · TypeScript · JavaScript · HTML · CSS · FastAPI · Node.js �
 ## Working Style
 
 <p align="left">
-  <img src="https://media1.tenor.com/m/Q53XhZ3CqCcAAAAd/encrypted-data.gif" width="240" alt="Encrypted data animation" />
+  <img src="https://cdn.dribbble.com/userupload/20071783/file/original-f4c5612aa78c8d2be02da76975764914.gif" width="240" alt="Data encryption key" />
 </p>
 
 - I like systems that are easy to reason about and easy to verify.

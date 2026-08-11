@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://blueshift.com.br/assets/gif-home-Dsu_sHD6.gif" width="760" alt="Animated circuit background" />
+  <img src="https://media1.tenor.com/m/_OS9hRTr4O0AAAAd/robot-arm-immersive-software-engineering.gif" width="760" alt="Robot arm control scene" />
 </p>
 
 <h3 align="center">Building local-first software, embedded sensing, and AI tools with an eye toward robotics, mechatronics, and reliable production engineering.</h3>
@@ -19,42 +19,43 @@
   <a href="https://github.com/Arjunsk1291">GitHub</a>
 </p>
 
-## Story
+> I’m especially interested in roles across Germany and the DACH region in robotics, autonomous systems, industrial automation, defence, aerospace, and applied R&D.
+
+## Signal Chain
 
 <p align="left">
-  <img src="https://blueshift.com.br/assets/gif-home-Dsu_sHD6.gif" width="420" alt="Animated circuit accent" />
+  <img src="https://media1.tenor.com/m/8Juj0k-1L4AAAAAd/radar-love-search.gif" width="320" alt="Radar scanning" />
 </p>
 
-I like systems that move from signal to decision to action without becoming opaque along the way.
+I work best on systems that go from sensing to decision to action without becoming opaque along the way.
 
-My public work in 2026 has followed a clear arc:
+The public portfolio shows that shape pretty clearly:
 
-- `January to February`: command-center and productivity tooling.
-- `May`: local RAG and document-understanding systems.
-- `June`: embedded sensing and live signal processing with ESP32-class hardware.
-- `July to August`: tightening the portfolio into a more credible engineering signal for robotics-oriented recruiters.
+- `signal`: ESP32 sensing, WiFi CSI, OCR, local document parsing.
+- `decision`: Python and TypeScript pipelines, validation logic, workflow automation.
+- `action`: dashboards, deployment-friendly tools, and systems that can actually be operated.
 
-## 2026 telemetry
+## 2026 Telemetry
 
 <p align="left">
-  <img src="https://blueshift.com.br/assets/gif-home-Dsu_sHD6.gif" width="420" alt="Telemetry accent" />
+  <img src="https://media1.tenor.com/m/UZjlT2w2Ss0AAAAd/circuits-pcb.gif" width="320" alt="Circuit board animation" />
 </p>
 
-As of `August 10, 2026`:
+As of `August 11, 2026`:
 
 - `12` public repositories in the profile.
 - `205` public commits across those repos since `January 1, 2026`.
 - Main public languages: `Python`, `TypeScript`, `JavaScript`, and `C++`.
-- The clearest hardware-adjacent signal is `WiSentry`, which combines ESP32 sensing, Python, C++, simulation, and a live dashboard.
-- The clearest applied-AI signal is `DocuMind`, which combines FastAPI, React, OCR, OpenCV, and GraphRAG.
+- Strongest hardware-adjacent signal: `WiSentry`, with ESP32 sensing, Python, C++, simulation, and a live dashboard.
+- Strongest applied-AI signal: `DocuMind`, with FastAPI, React, OCR, OpenCV, and GraphRAG.
 
-## Portfolio signal
+## What The Portfolio Says
 
 <p align="left">
-  <img src="https://blueshift.com.br/assets/gif-home-Dsu_sHD6.gif" width="420" alt="Portfolio accent" />
+  <img src="https://media1.tenor.com/m/W2s9QN53er0AAAAd/download-loading-file.gif" width="320" alt="Loading / transfer animation" />
 </p>
 
-The portfolio is not a robotics lab in the strict academic sense. It is stronger than that in one useful way: it shows the pieces recruiters actually screen for in robotics-adjacent engineering roles.
+The work is not a robotics lab in the academic sense. It is useful in a different way: it shows the pieces recruiters actually screen for in robotics-adjacent engineering roles.
 
 - software that can be shipped and maintained
 - embedded sensing that touches real hardware
@@ -62,26 +63,21 @@ The portfolio is not a robotics lab in the strict academic sense. It is stronger
 - dashboards, workflows, and internal tools with operational discipline
 - enough C++ and signal-processing evidence to make the embedded work believable
 
-## Selected systems
+## Selected Systems
 
-<p align="left">
-  <img src="https://blueshift.com.br/assets/gif-home-Dsu_sHD6.gif" width="420" alt="Systems accent" />
-</p>
+| Project | Evidence | Why it matters |
+| --- | --- | --- |
+| [WiSentry](https://github.com/Arjunsk1291/wisentry) | ESP32 + Python + C++ + live dashboard + simulator | Clearest embedded-sensing piece in the portfolio. |
+| [DocuMind](https://github.com/Arjunsk1291/documind-rag-app) | FastAPI + React + OpenCV + OCR + GraphRAG | Applied AI, document processing, and visual extraction. |
+| [OpportunityDash](https://github.com/Arjunsk1291/opportunityDash) | Microsoft Graph sync + approvals + analytics + reporting | Operational software with workflow discipline. |
+| [HireFlow](https://github.com/Arjunsk1291/hireflow) | Next.js + Prisma + NextAuth + tests + background jobs | Modern full-stack architecture. |
+| [rag-qwen-local](https://github.com/Arjunsk1291/rag-qwen-local) | Local RAG + FastAPI + ChromaDB | Privacy-first engineering and local deployment. |
 
-- `WiSentry` - ESP32 + Python + C++ + live dashboard + simulator. This is the clearest embedded-sensing piece in the portfolio.
-- `DocuMind` - FastAPI + React + OpenCV + OCR + GraphRAG. This shows applied AI, document processing, and visual extraction.
-- `OpportunityDash` - Microsoft Graph sync, approvals, analytics, and reporting. This shows operational software with workflow discipline.
-- `HireFlow` - Next.js, Prisma, NextAuth, tests, and background jobs. This shows modern full-stack architecture.
-
-## Stack
+## Core Stack
 
 Python · C++ · TypeScript · JavaScript · HTML · CSS · FastAPI · Node.js · Express · Next.js · Prisma · MongoDB · SQLite · REST APIs · Docker · RAG · OCR · OpenCV · ChromaDB · ESP32 · WiFi CSI
 
-## Working style
-
-<p align="left">
-  <img src="https://blueshift.com.br/assets/gif-home-Dsu_sHD6.gif" width="420" alt="Working style accent" />
-</p>
+## Working Style
 
 - I like systems that are easy to reason about and easy to verify.
 - I prefer local-first or privacy-conscious designs when that is practical.
@@ -90,8 +86,7 @@ Python · C++ · TypeScript · JavaScript · HTML · CSS · FastAPI · Node.js �
 
 ## Contact
 
-- LinkedIn: [arjun-s-kumar-721758276](https://www.linkedin.com/in/arjun-s-kumar-721758276/)
-- GitHub: [Arjunsk1291](https://github.com/Arjunsk1291)
+LinkedIn: [arjun-s-kumar-721758276](https://www.linkedin.com/in/arjun-s-kumar-721758276/) · GitHub: [Arjunsk1291](https://github.com/Arjunsk1291)
 
 ---
 

@@ -65,6 +65,10 @@ The work is not a robotics lab in the academic sense. It is useful in a differen
 
 ## Selected Systems
 
+<p align="left">
+  <img src="https://tenor.com/view/data-flow-sort-compute-glitch-gif-7084761493615860081" width="320" alt="Data flow animation" />
+</p>
+
 | Project | Evidence | Why it matters |
 | --- | --- | --- |
 | [WiSentry](https://github.com/Arjunsk1291/wisentry) | ESP32 + Python + C++ + live dashboard + simulator | Clearest embedded-sensing piece in the portfolio. |
@@ -79,6 +83,10 @@ Python · C++ · TypeScript · JavaScript · HTML · CSS · FastAPI · Node.js �
 
 ## Working Style
 
+<p align="left">
+  <img src="https://tenor.com/view/encrypted-data-information-alien-code-gif-24787892" width="320" alt="Encrypted data animation" />
+</p>
+
 - I like systems that are easy to reason about and easy to verify.
 - I prefer local-first or privacy-conscious designs when that is practical.
 - I value documentation that helps the next engineer move faster.
@@ -87,7 +95,3 @@ Python · C++ · TypeScript · JavaScript · HTML · CSS · FastAPI · Node.js �
 ## Contact
 
 LinkedIn: [arjun-s-kumar-721758276](https://www.linkedin.com/in/arjun-s-kumar-721758276/) · GitHub: [Arjunsk1291](https://github.com/Arjunsk1291)
-
----
-
-Open to conversations about robotics, mechatronics, autonomous systems, industrial automation, defence, aerospace, and R&D roles.

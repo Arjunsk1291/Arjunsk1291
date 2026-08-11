@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/_OS9hRTr4O0AAAAd/robot-arm-immersive-software-engineering.gif" width="760" alt="Robot arm control scene" />
+  <img src="https://media1.tenor.com/m/_OS9hRTr4O0AAAAd/robot-arm-immersive-software-engineering.gif" width="620" alt="Robot arm control scene" />
 </p>
 
 <h3 align="center">Building local-first software, embedded sensing, and AI tools with an eye toward robotics, mechatronics, and reliable production engineering.</h3>
@@ -21,10 +21,12 @@
 
 > I’m especially interested in roles across Germany and the DACH region in robotics, autonomous systems, industrial automation, defence, aerospace, and applied R&D.
 
+<p align="center"><sub>Für deutsche Recruiter: Embedded Systems, Sensorik und robuste Systementwicklung.</sub></p>
+
 ## Signal Chain
 
 <p align="left">
-  <img src="https://media1.tenor.com/m/8Juj0k-1L4AAAAAd/radar-love-search.gif" width="320" alt="Radar scanning" />
+  <img src="https://media1.tenor.com/m/8Juj0k-1L4AAAAAd/radar-love-search.gif" width="240" alt="Radar scanning" />
 </p>
 
 I work best on systems that go from sensing to decision to action without becoming opaque along the way.
@@ -38,7 +40,7 @@ The public portfolio shows that shape pretty clearly:
 ## 2026 Telemetry
 
 <p align="left">
-  <img src="https://media1.tenor.com/m/UZjlT2w2Ss0AAAAd/circuits-pcb.gif" width="320" alt="Circuit board animation" />
+  <img src="https://media1.tenor.com/m/UZjlT2w2Ss0AAAAd/circuits-pcb.gif" width="240" alt="Circuit board animation" />
 </p>
 
 As of `August 11, 2026`:
@@ -52,7 +54,7 @@ As of `August 11, 2026`:
 ## What The Portfolio Says
 
 <p align="left">
-  <img src="https://media1.tenor.com/m/W2s9QN53er0AAAAd/download-loading-file.gif" width="320" alt="Loading / transfer animation" />
+  <img src="https://media1.tenor.com/m/W2s9QN53er0AAAAd/download-loading-file.gif" width="240" alt="Loading / transfer animation" />
 </p>
 
 The work is not a robotics lab in the academic sense. It is useful in a different way: it shows the pieces recruiters actually screen for in robotics-adjacent engineering roles.
@@ -66,7 +68,7 @@ The work is not a robotics lab in the academic sense. It is useful in a differen
 ## Selected Systems
 
 <p align="left">
-  <img src="https://media1.tenor.com/m/YlIhCrFW2XEAAAAd/data-flow.gif" width="320" alt="Data flow animation" />
+  <img src="https://media1.tenor.com/m/YlIhCrFW2XEAAAAd/data-flow.gif" width="240" alt="Data flow animation" />
 </p>
 
 | Project | Evidence | Why it matters |
@@ -84,7 +86,7 @@ Python · C++ · TypeScript · JavaScript · HTML · CSS · FastAPI · Node.js �
 ## Working Style
 
 <p align="left">
-  <img src="https://media1.tenor.com/m/Q53XhZ3CqCcAAAAd/encrypted-data.gif" width="320" alt="Encrypted data animation" />
+  <img src="https://media1.tenor.com/m/Q53XhZ3CqCcAAAAd/encrypted-data.gif" width="240" alt="Encrypted data animation" />
 </p>
 
 - I like systems that are easy to reason about and easy to verify.

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhwM3BvZGZ1d2V0Y3B2cTFub2g4eXBkbTc5dXlua2o5aWR6c3JldyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26h0qLFdOBklnBsyI/giphy.gif" width="420" alt="Dark anime cyberpunk accent" />
+  <img src="https://giffiles.alphacoders.com/217/217729.gif" width="380" alt="Cyberpunk neon cityscape" />
 </p>
 
 <p align="center">

@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/2026%20contributions-1k%2B-0b1020?style=for-the-badge" alt="2026 contributions" />
-  <img src="https://img.shields.io/badge/Main%20focus-Embedded%20%2F%20Robotics-0b1020?style=for-the-badge" alt="Main focus" />
-  <img src="https://img.shields.io/badge/Core%20languages-Python%20%7C%20C%2B%2B%20%7C%20TypeScript%20%7C%20JavaScript-0b1020?style=for-the-badge" alt="Core languages" />
-  <img src="https://img.shields.io/badge/Featured%20signals-WiSentry%20%7C%20DocuMind%20%7C%20OpportunityDash%20%7C%20HireFlow%20%7C%20rag--qwen--local-0b1020?style=for-the-badge" alt="Featured signals" />
+  <img src="https://img.shields.io/badge/2026%20contributions-1%2C183-0b1020?style=for-the-badge" alt="2026 contributions 1,183" />
+  <img src="https://img.shields.io/badge/Main%20focus-Embedded%20%2F%20Robotics-0b1020?style=for-the-badge" alt="Main focus Embedded / Robotics" />
+  <img src="https://img.shields.io/badge/Core%20languages-TypeScript%20%2F%20JavaScript%20%2F%20Python%20%2F%20C%2B%2B-0b1020?style=for-the-badge" alt="Core languages TypeScript / JavaScript / Python / C++" />
+  <img src="https://img.shields.io/badge/Featured%20signals-WiSentry%20%2F%20DocuMind%20%2F%20OpportunityDash%20%2F%20HireFlow%20%2F%20rag-qwen-local-0b1020?style=for-the-badge" alt="Featured signals WiSentry DocuMind OpportunityDash HireFlow rag-qwen-local" />
 </p>
 
 <h3 align="center">Embedded sensing first, robotics next, with AI and software as support layers.</h3>

@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/2026%20public%20repos-12-0b1020?style=for-the-badge" alt="2026 public repos" />
-  <img src="https://img.shields.io/badge/2026%20public%20commits-216-0b1020?style=for-the-badge" alt="2026 public commits" />
+  <img src="https://img.shields.io/badge/2026%20contributions-1k%2B-0b1020?style=for-the-badge" alt="2026 contributions" />
   <img src="https://img.shields.io/badge/Main%20focus-Embedded%20%2F%20Robotics-0b1020?style=for-the-badge" alt="Main focus" />
   <img src="https://img.shields.io/badge/Core%20languages-Python%20%7C%20C%2B%2B%20%7C%20TypeScript%20%7C%20JavaScript-0b1020?style=for-the-badge" alt="Core languages" />
   <img src="https://img.shields.io/badge/Featured%20signals-WiSentry%20%7C%20DocuMind%20%7C%20OpportunityDash%20%7C%20HireFlow%20%7C%20rag--qwen--local-0b1020?style=for-the-badge" alt="Featured signals" />

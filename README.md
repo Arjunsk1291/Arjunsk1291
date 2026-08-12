@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam4zN3lyZncwaTBpcXJzbTI3dnRpanpxamhxcjU4bWl4amF6MjZ3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aqOUrkDo2fdyE/giphy.gif" width="620" alt="Anime boy typing at a computer" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhwM3BvZGZ1d2V0Y3B2cTFub2g4eXBkbTc5dXlua2o5aWR6c3JldyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26h0qLFdOBklnBsyI/giphy.gif" width="420" alt="Dark anime cyberpunk accent" />
 </p>
 
 <p align="center">

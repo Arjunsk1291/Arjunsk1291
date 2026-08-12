@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=24&pause=1000&center=true&vCenter=true&width=820&lines=Arjun+S+Kumar;Embedded+sensing+%2B+local+AI+%2B+full-stack+systems;Robotics%2C+mechatronics+and+autonomous-systems+focused" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Arjun+S+Kumar;Embedded+sensing+%2B+local+AI+%2B+full-stack+systems;Robotics%2C+mechatronics+and+autonomous-systems+focused" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/a03b66136590719.61fca586bfb12.gif" width="620" alt="Pixel city at dawn" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam4zN3lyZncwaTBpcXJzbTI3dnRpanpxamhxcjU4bWl4amF6MjZ3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aqOUrkDo2fdyE/giphy.gif" width="620" alt="Anime boy typing at a computer" />
 </p>
 
 <h3 align="center">Building local-first software, embedded sensing, and AI tools with an eye toward robotics, mechatronics, and reliable production engineering.</h3>
@@ -23,10 +23,27 @@
 
 <p align="center"><sub>Für deutsche Recruiter: Embedded Systems, Sensorik und robuste Systementwicklung.</sub></p>
 
+## Widgets
+
+<p align="center">
+  <img src="https://img.shields.io/badge/2026%20public%20repos-12-0b1020?style=for-the-badge" alt="2026 public repos" />
+  <img src="https://img.shields.io/badge/2026%20public%20commits-216-0b1020?style=for-the-badge" alt="2026 public commits" />
+  <img src="https://img.shields.io/badge/Core%20languages-4-0b1020?style=for-the-badge" alt="Core languages" />
+  <img src="https://img.shields.io/badge/Main%20focus-Embedded%20%2F%20Robotics-0b1020?style=for-the-badge" alt="Main focus" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WiSentry-ESP32%20%2B%20WiFi%20CSI-0b1020?style=flat-square" alt="WiSentry" />
+  <img src="https://img.shields.io/badge/DocuMind-GraphRAG%20%2B%20OCR-0b1020?style=flat-square" alt="DocuMind" />
+  <img src="https://img.shields.io/badge/OpportunityDash-Graph%20sync%20%2B%20ops-0b1020?style=flat-square" alt="OpportunityDash" />
+  <img src="https://img.shields.io/badge/HireFlow-Next.js%20%2B%20Prisma-0b1020?style=flat-square" alt="HireFlow" />
+  <img src="https://img.shields.io/badge/Local%20RAG-Privacy--first%20AI-0b1020?style=flat-square" alt="Local RAG" />
+</p>
+
 ## Signal Chain
 
 <p align="left">
-  <img src="https://designyoutrust.com/wp-content/uploads/2019/05/tumblr_p4m2p2IByC1vjxiz1o1_1280.gif" width="240" alt="Pixel café scene" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW4wMmx0MzNpYXZkengwZ2ZjNGY2cDJmcDNrM21tdmM0NWJnMWx1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5NE2L7vdWZ9V39Sjq8/giphy.gif" width="240" alt="Anime laptop work scene" />
 </p>
 
 I work best on systems that go from sensing to decision to action without becoming opaque along the way.
@@ -40,24 +57,92 @@ The public portfolio shows that shape pretty clearly:
 ## 2026 Telemetry
 
 <p align="left">
-  <img src="https://designyoutrust.com/wp-content/uploads/2019/05/tumblr_ongbq6aOn81vjxiz1o1_1280.gif" width="240" alt="Pixel street and vending machine" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhwM3BvZGZ1d2V0Y3B2cTFub2g4eXBkbTc5dXlua2o5aWR6c3JldyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26h0qLFdOBklnBsyI/giphy.gif" width="240" alt="Dark anime cyberpunk accent" />
 </p>
 
-As of `August 11, 2026`:
+As of `August 12, 2026`:
 
 - `12` public repositories in the profile.
-- `205` public commits across those repos since `January 1, 2026`.
+- `216` public commits across those repos since `January 1, 2026`.
 - Main public languages: `Python`, `TypeScript`, `JavaScript`, and `C++`.
-- Strongest hardware-adjacent signal: `WiSentry`, with ESP32 sensing, Python, C++, simulation, and a live dashboard.
-- Strongest applied-AI signal: `DocuMind`, with FastAPI, React, OCR, OpenCV, and GraphRAG.
+- The strongest hardware-adjacent signal is `WiSentry`, which combines ESP32 sensing, a wire protocol, physics-based simulation, signal processing, and a live dashboard.
+- The strongest applied-AI signal is `DocuMind`, which combines FastAPI, React, OCR, OpenCV, GraphRAG, and visual source attribution.
 
-## What The Portfolio Says
+## Core Systems
 
-<p align="left">
-  <img src="https://designyoutrust.com/wp-content/uploads/2019/05/1.gif" width="240" alt="Pixel room scene" />
-</p>
+### WiSentry
 
-The work is not a robotics lab in the academic sense. It is useful in a different way: it shows the pieces recruiters actually screen for in robotics-adjacent engineering roles.
+WiSentry is the clearest embedded-sensing project in the portfolio. It uses ESP32 microcontrollers to read WiFi CSI, feeds the data into a laptop-side pipeline, and renders a live Dash dashboard.
+
+What makes it stronger than a demo:
+
+- wire protocol v1 is pinned across firmware, simulator, and parser
+- the simulator generates training data for the same SignalProcessor used at runtime
+- the model story is honest: shipped weights are synthetic-trained and labeled as such
+- the system has separate detection tiers for presence, pose, and experimental skeleton output
+
+### DocuMind
+
+DocuMind is the most relevant applied-AI project for technical documentation work.
+
+It combines:
+
+- FastAPI backend services
+- React + Vite frontend
+- GraphRAG / LlamaIndex for relationship-aware retrieval
+- OCR and OpenCV for visual extraction
+- CAD / telecom symbol support
+- visual source attribution with screenshot highlighting
+
+### OpportunityDash
+
+OpportunityDash shows production-minded full-stack ops work.
+
+It includes:
+
+- Microsoft Graph Excel sync
+- role-based approval workflows
+- analytics and KPI monitoring
+- filtering, export, and reporting
+- Dockerized frontend/backend/database deployment
+
+### HireFlow
+
+HireFlow is the cleanest modern web stack in the portfolio.
+
+It shows:
+
+- Next.js application structure
+- Prisma data modeling
+- NextAuth authentication
+- background jobs and scheduled tasks
+- tests and CI-oriented scripts
+
+### rag-qwen-local
+
+This is the strongest local-AI / privacy-first system in the repo set.
+
+It demonstrates:
+
+- local model deployment
+- FastAPI service exposure
+- ChromaDB vector search
+- CPU/GPU-aware tuning
+- a practical laptop-class setup rather than cloud dependence
+
+## Selected Work
+
+| Project | Evidence | Why it matters |
+| --- | --- | --- |
+| [WiSentry](https://github.com/Arjunsk1291/wisentry) | ESP32 + Python + C++ + live dashboard + simulator | Embedded sensing, pipeline design, system integration. |
+| [DocuMind](https://github.com/Arjunsk1291/documind-rag-app) | FastAPI + React + OpenCV + OCR + GraphRAG | Applied AI, document processing, visual extraction. |
+| [OpportunityDash](https://github.com/Arjunsk1291/opportunityDash) | Microsoft Graph sync + approvals + analytics + reporting | Operational software with workflow discipline. |
+| [HireFlow](https://github.com/Arjunsk1291/hireflow) | Next.js + Prisma + NextAuth + tests + background jobs | Modern full-stack architecture. |
+| [rag-qwen-local](https://github.com/Arjunsk1291/rag-qwen-local) | Local RAG + FastAPI + ChromaDB | Privacy-first engineering and local deployment. |
+
+## Why It Matters For Robotics
+
+The portfolio is not a robotics lab in the academic sense, but it maps well to the parts recruiters actually screen for in robotics-adjacent roles:
 
 - software that can be shipped and maintained
 - embedded sensing that touches real hardware
@@ -65,28 +150,14 @@ The work is not a robotics lab in the academic sense. It is useful in a differen
 - dashboards, workflows, and internal tools with operational discipline
 - enough C++ and signal-processing evidence to make the embedded work believable
 
-## Selected Systems
-
-<p align="left">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/9afe0493484903.5e66500f8dea4.gif" width="240" alt="Pixel night study" />
-</p>
-
-| Project | Evidence | Why it matters |
-| --- | --- | --- |
-| [WiSentry](https://github.com/Arjunsk1291/wisentry) | ESP32 + Python + C++ + live dashboard + simulator | Clearest embedded-sensing piece in the portfolio. |
-| [DocuMind](https://github.com/Arjunsk1291/documind-rag-app) | FastAPI + React + OpenCV + OCR + GraphRAG | Applied AI, document processing, and visual extraction. |
-| [OpportunityDash](https://github.com/Arjunsk1291/opportunityDash) | Microsoft Graph sync + approvals + analytics + reporting | Operational software with workflow discipline. |
-| [HireFlow](https://github.com/Arjunsk1291/hireflow) | Next.js + Prisma + NextAuth + tests + background jobs | Modern full-stack architecture. |
-| [rag-qwen-local](https://github.com/Arjunsk1291/rag-qwen-local) | Local RAG + FastAPI + ChromaDB | Privacy-first engineering and local deployment. |
-
-## Core Stack
+## Stack
 
 Python · C++ · TypeScript · JavaScript · HTML · CSS · FastAPI · Node.js · Express · Next.js · Prisma · MongoDB · SQLite · REST APIs · Docker · RAG · OCR · OpenCV · ChromaDB · ESP32 · WiFi CSI
 
 ## Working Style
 
 <p align="left">
-  <img src="https://assets.st-note.com/production/uploads/images/92228966/picture_pc_6d89f47c07af1d1901d76cd737d655d7.gif" width="240" alt="Pixel anime character" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZqcGoxZXBoYTFwcTgwcmJhZmRqY2RjMHR6NnNrZGJuaWdxaWtzaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UZQCbV4OW1mXdHJNPS/giphy.gif" width="240" alt="Anime typing at a computer" />
 </p>
 
 - I like systems that are easy to reason about and easy to verify.

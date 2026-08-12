@@ -1,0 +1,62 @@
+name: Update profile README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 1 * * *'
+    - cron: '0 2 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile-readme
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Guard for 03:00 Europe/Berlin
+        id: berlin_time
+        shell: bash
+        run: |
+          hour="$(TZ=Europe/Berlin date +%H)"
+          echo "hour=$hour" >> "$GITHUB_OUTPUT"
+          if [ "$hour" != "03" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "Current Europe/Berlin hour is $hour, so this run is outside the 03:00 window."
+            exit 0
+          fi
+          echo "skip=false" >> "$GITHUB_OUTPUT"
+
+      - name: Generate README
+        if: steps.berlin_time.outputs.skip != 'true'
+        run: node scripts/generate-profile-readme.mjs --output README.generated.md
+
+      - name: Commit README when it changed
+        if: steps.berlin_time.outputs.skip != 'true'
+        shell: bash
+        run: |
+          if cmp -s README.generated.md README.md; then
+            echo "README already up to date."
+            rm README.generated.md
+            exit 0
+          fi
+
+          mv README.generated.md README.md
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh profile dashboard"
+          git push
